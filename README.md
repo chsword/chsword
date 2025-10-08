@@ -51,11 +51,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsword&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsword&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsword&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsword&layout=compact&theme=default&hide_border=true&bg_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chsword&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chsword&theme=default&hide_border=true&background=ffffff)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=chsword&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=chsword&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -101,6 +101,27 @@ Xamarin Android的Bugly SDK绑定库
 ### [random-avatar](https://github.com/chsword/random-avatar) ⭐ 12
 ASP.NET随机头像服务  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+</div>
+
+## 🤝 My Contributions
+
+<div align="center">
+
+### [dotnet/runtime](https://github.com/dotnet/runtime)
+.NET Runtime - Core runtime and libraries  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+ASP.NET Core - Web framework for .NET  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### [dotnet/efcore](https://github.com/dotnet/efcore)
+Entity Framework Core - ORM for .NET  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 </div>
 
