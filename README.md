@@ -51,11 +51,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsword&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsword&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsword&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsword&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chsword&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chsword&theme=default&hide_border=true)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=chsword&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=chsword&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -71,19 +71,44 @@
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chsword&theme=react-dark&hide_border=true)](https://github.com/chsword)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chsword&theme=github-light&hide_border=true)](https://github.com/chsword)
 
 </div>
 
 ## 🌟 Featured Projects
 
-Check out my repositories to see what I'm working on! Feel free to star ⭐ any projects you find interesting.
+<div align="center">
+
+### [Excel2Object](https://github.com/chsword/Excel2Object) ⭐ 38
+Excel与.NET对象转换工具，支持公式、多Sheet等功能  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### [ResizingServer](https://github.com/chsword/ResizingServer) ⭐ 32
+基于.NET和ImageResizer的图片服务器  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### [aspnet-core-ad-authentication](https://github.com/chsword/aspnet-core-ad-authentication) ⭐ 23
+ASP.NET Core Active Directory认证（使用LDAP）  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-0078D4?style=flat-square)
+
+### [xamarin-bugly](https://github.com/chsword/xamarin-bugly) ⭐ 22
+Xamarin Android的Bugly SDK绑定库  
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### [random-avatar](https://github.com/chsword/random-avatar) ⭐ 12
+ASP.NET随机头像服务  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+</div>
 
 ## 💡 Quote of the Day
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 </div>
 
