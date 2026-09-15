@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm chsword 👋
+# chsword
 
-### .NET / C# Developer · AI Application Builder · Engineering Pragmatist
+### 专注 .NET、AI 应用与工程化落地的开发者
 
-专注于 **.NET 后端开发、AI 应用方向、工程化实践与开源工具构建**，也持续在 **TypeScript / Node.js / Go** 方向进行探索与落地。
+把想法做成产品，把方案做成系统，把经验做成可复用的工具。
 
 [![GitHub followers](https://img.shields.io/github/followers/chsword?style=social)](https://github.com/chsword)
 [![Profile Views](https://komarev.com/ghpvc/?username=chsword&style=flat-square&color=5c7cfa&label=Profile+Views)](https://github.com/chsword)
@@ -13,15 +13,23 @@
 
 ---
 
-## 关于我
+## 我是谁
 
-- 长期聚焦 **C# / .NET**，关注可维护性、可扩展性与工程效率
-- 持续维护和实践多个开源项目，覆盖 **Excel 处理、图像服务、认证集成、开发工具** 等方向
-- 参与维护 **chatu-ai** 组织，持续投入 **AI 应用、SDK 与集成能力** 相关实践
-- 在 **TypeScript、Node.js、Go** 领域也有实际项目与技术探索
-- 希望用简洁、稳定、可复用的方式解决真实问题
+你好，我是 **chsword**。
 
-## 当前技术画像
+我长期深耕 **C# / .NET**，关注后端系统的稳定性、可维护性与工程效率；同时也在持续投入 **AI 应用、SDK 封装、服务集成与开发工具** 方向的实践。
+
+我希望做的不是“能跑起来”的代码，而是 **真正能解决问题、可以长期演进、可以被复用沉淀** 的产品与工程方案。
+
+## 我在做的方向
+
+- **.NET 后端开发**：构建稳定、清晰、可扩展的服务端系统
+- **AI 应用落地**：关注 AI 能力接入、工具链建设与业务场景结合
+- **工程化实践**：重视架构边界、可维护性、交付效率与长期演进
+- **开源工具构建**：把高频问题沉淀成组件、SDK、服务或开发工具
+- **组织协作与维护**：参与维护 **chatu-ai** 组织，持续推动相关项目迭代
+
+## 技术标签
 
 <div align="center">
 
@@ -38,27 +46,33 @@
 
 </div>
 
-## 关注方向
+## 我的能力侧重
 
-| 方向 | 说明 |
+| 方向 | 我关注的重点 |
 | --- | --- |
-| Backend Engineering | 面向业务场景构建稳定、清晰、易维护的后端服务 |
-| AI Applications | 关注 AI 应用接入、SDK 封装、工具链与实际落地场景 |
-| Developer Tools | 通过工具和库提升开发效率与可复用性 |
-| Integration & Infrastructure | 关注认证、部署、容器化与服务集成实践 |
-| Open Source Practice | 用开源项目沉淀经验，持续打磨工程质量 |
+| .NET / Backend | 高可读性、高可维护性、面向业务演进的后端系统 |
+| AI Applications | AI 能力接入、SDK/插件封装、业务场景落地 |
+| Developer Tools | 用工具和组件提升团队效率与复用能力 |
+| Integration | 认证、服务对接、系统连接与接口工程化 |
+| Open Source | 通过开源项目沉淀实践与输出方法论 |
 
 ## 代表项目
 
-| 项目 | 简介 | 技术栈 |
+| 项目 | 价值定位 | 技术栈 |
 | --- | --- | --- |
-| [Excel2Object](https://github.com/chsword/Excel2Object) | Excel 与 .NET 对象转换工具，支持公式、多 Sheet 等场景 | C# / .NET |
-| [ResizingServer](https://github.com/chsword/ResizingServer) | 面向实际使用场景的图片处理与缩放服务 | C# / .NET |
-| [aspnet-core-ad-authentication](https://github.com/chsword/aspnet-core-ad-authentication) | 基于 LDAP 的 ASP.NET Core Active Directory 认证方案 | ASP.NET Core / LDAP |
-| [random-avatar](https://github.com/chsword/random-avatar) | 随机头像服务示例，聚焦轻量服务化能力 | C# / ASP.NET |
+| [Excel2Object](https://github.com/chsword/Excel2Object) | 面向实际业务的 Excel 与 .NET 对象转换工具，解决复杂导入导出场景 | C# / .NET |
+| [ResizingServer](https://github.com/chsword/ResizingServer) | 面向图片处理场景的服务化能力封装 | C# / .NET |
+| [aspnet-core-ad-authentication](https://github.com/chsword/aspnet-core-ad-authentication) | 提供基于 LDAP 的 ASP.NET Core Active Directory 认证实践 | ASP.NET Core / LDAP |
 | [chatu-ai/webhub](https://github.com/chatu-ai/webhub) | 面向 AI 场景的网站连接插件，支持通过 HTTP / WebSocket 接入外部能力 | TypeScript / AI Integration |
-| [chatu-ai/chatu-builder-sdk](https://github.com/chatu-ai/chatu-builder-sdk) | 面向 AI Builder 能力的 SDK 封装与集成实践 | TypeScript / SDK |
-| [openclaw-channel](https://github.com/chsword/openclaw-channel) | TypeScript SDK 实践，面向集成与通道能力封装 | TypeScript |
+| [chatu-ai/chatu-builder-sdk](https://github.com/chatu-ai/chatu-builder-sdk) | 面向 AI Builder 方向的 SDK 封装与集成实践 | TypeScript / SDK |
+| [openclaw-channel](https://github.com/chsword/openclaw-channel) | 面向集成与通道能力的 TypeScript SDK 实践 | TypeScript |
+
+## 我看重的工程理念
+
+- **先解决真实问题，再追求抽象优雅**
+- **代码不仅要可运行，更要可维护、可协作、可扩展**
+- **AI 不只是能力展示，更应该进入真实业务流程**
+- **优秀的工具和基础设施，能持续放大团队产出**
 
 ## GitHub 概览
 
@@ -69,21 +83,14 @@
 
 </div>
 
-## 开源偏好
-
-- 倾向于构建 **解决具体问题** 的项目，而不是只停留在 Demo
-- 乐于推动 **AI 能力与现有系统结合**，强调可集成、可运营、可演进
-- 注重 **代码可读性、接口设计和长期维护成本**
-- 喜欢把常见场景沉淀成可复用组件、工具或服务
-
 ---
 
 <div align="center">
 
-### Connect
+### 如果你也关注这些方向
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chsword)
 
-如果你也关注 .NET、AI 应用、工程化、开源工具或服务端实践，欢迎交流。
+欢迎交流 **.NET、AI 应用、工程化实践、开源工具、服务端架构** 相关话题。
 
 </div>
