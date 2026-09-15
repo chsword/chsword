@@ -1,147 +1,96 @@
 <div align="center">
-  
-# 👋 Hi there, I'm chsword!
 
-### 💫 Software Developer | Open Source Enthusiast | Tech Explorer
+# chsword
 
-[![GitHub followers](https://img.shields.io/github/followers/chsword?label=Follow&style=social)](https://github.com/chsword)
-[![GitHub stars](https://img.shields.io/github/stars/chsword?label=Stars&style=social)](https://github.com/chsword)
+### 专注 .NET、AI 应用与工程化落地的开发者
+
+把想法做成产品，把方案做成系统，把经验做成可复用的工具。
+
+[![GitHub followers](https://img.shields.io/github/followers/chsword?style=social)](https://github.com/chsword)
+[![Profile Views](https://komarev.com/ghpvc/?username=chsword&style=flat-square&color=5c7cfa&label=Profile+Views)](https://github.com/chsword)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 我是谁
 
-- 🔭 I'm currently working on exciting open source projects
-- 🌱 I'm constantly learning and exploring new technologies
-- 👯 I'm looking to collaborate on innovative software solutions
-- 💬 Ask me about software development, architecture, and best practices
-- 📫 How to reach me: Check out my GitHub repositories
-- ⚡ Fun fact: I love turning complex problems into elegant solutions
+你好，我是 **chsword**。
 
-## 🛠️ Tech Stack & Skills
+我长期深耕 **C# / .NET**，关注后端系统的稳定性、可维护性与工程效率；同时也在持续投入 **AI 应用、SDK 封装、服务集成与开发工具** 方向的实践。
+
+我希望做的不是“能跑起来”的代码，而是 **真正能解决问题、可以长期演进、可以被复用沉淀** 的产品与工程方案。
+
+## 我在做的方向
+
+- **.NET 后端开发**：构建稳定、清晰、可扩展的服务端系统
+- **AI 应用落地**：关注 AI 能力接入、工具链建设与业务场景结合
+- **工程化实践**：重视架构边界、可维护性、交付效率与长期演进
+- **开源工具构建**：把高频问题沉淀成组件、SDK、服务或开发工具
+- **组织协作与维护**：参与维护 **chatu-ai** 组织，持续推动相关项目迭代
+
+## 技术标签
 
 <div align="center">
 
-### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frameworks & Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
-## 📊 GitHub Statistics
+## 我的能力侧重
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsword&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff)
+| 方向 | 我关注的重点 |
+| --- | --- |
+| .NET / Backend | 高可读性、高可维护性、面向业务演进的后端系统 |
+| AI Applications | AI 能力接入、SDK/插件封装、业务场景落地 |
+| Developer Tools | 用工具和组件提升团队效率与复用能力 |
+| Integration | 认证、服务对接、系统连接与接口工程化 |
+| Open Source | 通过开源项目沉淀实践与输出方法论 |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsword&layout=compact&theme=default&hide_border=true&bg_color=ffffff)
+## 代表项目
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chsword&theme=default&hide_border=true&background=ffffff)
+| 项目 | 价值定位 | 技术栈 |
+| --- | --- | --- |
+| [Excel2Object](https://github.com/chsword/Excel2Object) | 面向实际业务的 Excel 与 .NET 对象转换工具，解决复杂导入导出场景 | C# / .NET |
+| [ResizingServer](https://github.com/chsword/ResizingServer) | 面向图片处理场景的服务化能力封装 | C# / .NET |
+| [aspnet-core-ad-authentication](https://github.com/chsword/aspnet-core-ad-authentication) | 提供基于 LDAP 的 ASP.NET Core Active Directory 认证实践 | ASP.NET Core / LDAP |
+| [chatu-ai/webhub](https://github.com/chatu-ai/webhub) | 面向 AI 场景的网站连接插件，支持通过 HTTP / WebSocket 接入外部能力 | TypeScript / AI Integration |
+| [chatu-ai/chatu-builder-sdk](https://github.com/chatu-ai/chatu-builder-sdk) | 面向 AI Builder 方向的 SDK 封装与集成实践 | TypeScript / SDK |
+| [openclaw-channel](https://github.com/chsword/openclaw-channel) | 面向集成与通道能力的 TypeScript SDK 实践 | TypeScript |
 
-</div>
+## 我看重的工程理念
 
-## 🏆 GitHub Trophies
+- **先解决真实问题，再追求抽象优雅**
+- **代码不仅要可运行，更要可维护、可协作、可扩展**
+- **AI 不只是能力展示，更应该进入真实业务流程**
+- **优秀的工具和基础设施，能持续放大团队产出**
 
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=chsword&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chsword&theme=github-light&hide_border=true)](https://github.com/chsword)
-
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### [Excel2Object](https://github.com/chsword/Excel2Object) ⭐ 38
-Excel与.NET对象转换工具，支持公式、多Sheet等功能  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### [ResizingServer](https://github.com/chsword/ResizingServer) ⭐ 32
-基于.NET和ImageResizer的图片服务器  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-### [aspnet-core-ad-authentication](https://github.com/chsword/aspnet-core-ad-authentication) ⭐ 23
-ASP.NET Core Active Directory认证（使用LDAP）  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-0078D4?style=flat-square)
-
-### [xamarin-bugly](https://github.com/chsword/xamarin-bugly) ⭐ 22
-Xamarin Android的Bugly SDK绑定库  
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### [random-avatar](https://github.com/chsword/random-avatar) ⭐ 12
-ASP.NET随机头像服务  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-</div>
-
-## 🤝 My Contributions
+## GitHub 概览
 
 <div align="center">
 
-### [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-Production-Grade Container Orchestration  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### [nodejs/node](https://github.com/nodejs/node)
-Node.js JavaScript runtime  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
-### [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-TypeScript - Superset of JavaScript  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-</div>
-
-## 💡 Quote of the Day
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsword&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsword&layout=compact&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 📫 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chsword)
+### 如果你也关注这些方向
 
-**💼 Open to collaborations and interesting projects!**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chsword)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=chsword&color=blueviolet&style=flat-square&label=Profile+Views)
+欢迎交流 **.NET、AI 应用、工程化实践、开源工具、服务端架构** 相关话题。
 
 </div>
